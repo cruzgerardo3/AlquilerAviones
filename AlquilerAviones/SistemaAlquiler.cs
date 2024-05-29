@@ -147,7 +147,6 @@ namespace AlquilerAviones
                 }
             }
         }
-
         private void MostrarMenuVendedor(Vendedor vendedor)
         {
             while (true)
